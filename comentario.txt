@@ -1,0 +1,1 @@
+expo-font do app.json precisou ser envolto em colchetes (???) para parar o erro "PluginError: Plugin is an unexpected type: object"
