@@ -1,15 +1,14 @@
-# tarefaDoDia
+# tarefaDoDia :memo:
 
 Projeto de aplicativo para android, desenvolvido em React Native, para controle das tarefas diárias de crianças.
 
 ## Preview:
-![alt text](https://drive.google.com/file/d/1SG-ki-2s22GFYDQiEIQrrIXvSLq92S76/view?usp=drive_link "Preview da Tela Inicial do Aplicativo")
-\
-\
-\
+<img src="https://i.ibb.co/xYMJDtB/Whats-App-Image-2024-09-18-at-09-11-45.jpg" alt="Preview da Tela Inicial do Aplicativo" width="300"/>
 
 
-| Implementar   | Prontro?|
+## Implementar:
+
+| Adicionar     | Prontro?|
 | ------------- |:-------:|
 | Calendario    |         |
 | Banco de Dados|         |
